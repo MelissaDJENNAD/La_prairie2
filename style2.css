@@ -1,0 +1,12 @@
+.f{
+  background-color: rgb(170, 127, 228);
+  width: 35%;
+  height: 300px;
+  border-radius: 3%;
+  box-shadow: 6px 6px 0px black;
+}
+p{
+  position: absolute;
+  top: 80px;
+  left: 20px;
+}
